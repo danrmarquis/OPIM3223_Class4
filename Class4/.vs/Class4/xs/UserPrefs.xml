@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{43134FE1-9A81-B6C1-9075-EFAE1CFF4336}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Temp/Compiled-Custom-BallShader.shader">
+    <Files>
+      <File FileName="Temp/GeneratedFromSurface-Custom-BallShader.shader" Line="5" Column="40" />
+      <File FileName="Assets/BallShader.shader" Line="5" Column="45" />
+      <File FileName="Temp/Compiled-Custom-BallShader.shader" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Class4" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="BallShader.shader" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e99bdc6d-d610-4476-843b-685acc570df1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
